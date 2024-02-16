@@ -1,0 +1,32 @@
+h2{
+
+    text-align: center;
+    font-size: 28px;
+    font-family: Outfit;
+    font-weight: 700;
+}
+
+body {
+    
+    background-color: rgb(221, 179, 179);
+    border-radius: 15px;
+    text-align: center;
+    padding: 70px 10%;
+    background-color: hsl(75, 36%, 82%);
+    margin: auto;
+    margin-top: 6%;
+    width: 60%;
+    height: 540px;
+    box-shadow: 5px 10px 10px #888888
+}
+
+p {
+    font-size: 24px;
+    font-family: outfit;
+   
+}
+
+h3{
+
+    color: rgb(15, 88, 48);
+}
